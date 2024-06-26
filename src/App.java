@@ -921,298 +921,370 @@ public class App {
                         // Centimetre
                         case "cm2mm":
                             length = Centimetre.CM2MM(length);
+                            System.out.println(length +"mm");
                             break;
 
                         case "cm2m":
                             length = Centimetre.CM2M(length);
+                            System.out.println(length +"m");
                             break;
 
                         case "cm2km":
                             length = Centimetre.CM2KM(length);
+                            System.out.println(length +"km");
                             break;
 
                         case "cm2in":
                             length = Centimetre.CM2IN(length);
+                            System.out.println(length +"in");
                             break;
 
                         case "cm2ft":
                             length = Centimetre.CM2FT(length);
+                            System.out.println(length +"ft");
                             break;
 
                         case "cm2yd":
                             length = Centimetre.CM2YD(length);
+                            System.out.println(length +"yd");
                             break;
 
                         case "cm2mi":
                             length = Centimetre.CM2MI(length);
+                            System.out.println(length +"mi");
                             break;
 
                         case "cm2nm":
                             length = Centimetre.CM2NM(length);
+                            System.out.println(length +"nm");
                             break;
 
                         // Feet
                         case "ft2mm":
                             length = Feet.FT2MM(length);
+                            System.out.println(length + "mm");
                             break;
 
                         case "ft2cm":
                             length = Feet.FT2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "ft2m":
                             length = Feet.FT2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "ft2km":
                             length = Feet.FT2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "ft2in":
                             length = Feet.FT2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "ft2yd":
                             length = Feet.FT2YD(length);
+                            System.out.println(length + "yd");
                             break;
 
                         case "ft2mi":
                             length = Feet.FT2MI(length);
+                            System.out.println(length + "mi");
                             break;
 
                         case "ft2nm":
                             length = Feet.FT2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         // Inch
                         case "in2mm":
                             length = Inch.IN2MM(length);
+                            System.out.println(length + "mm");
                             break;
 
                         case "in2cm":
                             length = Inch.IN2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "in2m":
                             length = Inch.IN2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "in2km":
                             length = Inch.IN2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "in2ft":
                             length = Inch.IN2FT(length);
+                            System.out.println(length + "ft");
                             break;
 
                         case "in2yd":
                             length = Inch.IN2YD(length);
+                            System.out.println(length + "yd");
                             break;
 
                         case "in2mi":
                             length = Inch.IN2MI(length);
+                            System.out.println(length + "mi");
                             break;
 
                         case "in2nm":
                             length = Inch.IN2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         // Kilometre
                         case "km2mm":
                             length = Kilometre.KM2MM(length);
+                            System.out.println(length + "mm");
                             break;
 
                         case "km2cm":
                             length = Kilometre.KM2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "km2m":
                             length = Kilometre.KM2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "km2in":
                             length = Kilometre.KM2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "km2ft":
                             length = Kilometre.KM2FT(length);
+                            System.out.println(length + "ft");
                             break;
 
                         case "km2yd":
                             length = Kilometre.KM2YD(length);
+                            System.out.println(length + "yd");
                             break;
 
                         case "km2mi":
                             length = Kilometre.KM2MI(length);
+                            System.out.println(length + "mi");
                             break;
 
                         case "km2nm":
                             length = Kilometre.KM2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         //Metre
                         case "m2mm":
                             length = Metre.M2MM(length);
+                            System.out.println(length + "mm");
                             break;
 
                         case "m2cm":
                             length = Metre.M2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "m2km":
                             length = Metre.M2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "m2in":
                             length = Metre.M2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "m2ft":
                             length = Metre.M2FT(length);
+                            System.out.println(length + "ft");
                             break;
                         
                         case "m2yd":
                             length = Metre.M2YD(length);
+                            System.out.println(length + "yd");
                             break;
                         
                         case "m2mi":
                             length = Metre.M2MI(length);
+                            System.out.println(length + "mi");
                             break;
                         
                         case "m2nm":
                             length = Metre.M2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         //Mile
                         case "mi2mm":
                             length = Mile.MI2MM(length);
+                            System.out.println(length + "mm");
                             break;
 
                         case "mi2cm":
                             length = Mile.MI2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "mi2m":
                             length = Mile.MI2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "mi2km":
                             length = Mile.MI2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "mi2in":
                             length = Mile.MI2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "mi2ft":
                             length = Mile.MI2FT(length);
+                            System.out.println(length + "ft");
                             break;
                         
                         case "mi2yd":
                             length = Mile.MI2YD(length);
+                            System.out.println(length + "yd");
                             break;
                         
                         case "mi2nm":
                             length = Mile.MI2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         // Millimetre
                         case "mm2cm":
                             length = Millimetre.MM2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "mm2m":
                             length = Millimetre.MM2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "mm2km":
                             length = Millimetre.MM2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "mm2in":
                             length = Millimetre.MM2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "mm2ft":
                             length = Millimetre.MM2FT(length);
+                            System.out.println(length + "ft");
                             break;
 
                         case "mm2yd":
                             length = Millimetre.MM2YD(length);
+                            System.out.println(length + "yd");
                             break;
 
                         case "mm2mi":
                             length = Millimetre.MM2MI(length);
+                            System.out.println(length + "mi");
                             break;
 
                         case "mm2nm":
                             length = Millimetre.MM2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         // Nuatical Mile
                         case "nm2mm":
                             length = NautMile.NM2MM(length);
+                            System.out.println(length + "mm");
                             break;
 
                         case "nm2cm":
                             length = NautMile.NM2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "nm2m":
                             length = NautMile.NM2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "nm2km":
                             length = NautMile.NM2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "nm2in":
                             length = NautMile.NM2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "nm2ft":
                             length = NautMile.NM2FT(length);
+                            System.out.println(length + "ft");
                             break;
 
                         case "nm2yd":
                             length = NautMile.NM2YD(length);
+                            System.out.println(length + "yd");
                             break;
 
                         case "nm2mi":
                             length = NautMile.NM2MI(length);
+                            System.out.println(length + "mi");
                             break;
 
                         // Yard
                         case "yd2mm":
                             length = Yard.YD2MM(length);
+                            System.out.println(length + "mm");
                             break;
                         
                         case "yd2cm":
                             length = Yard.YD2CM(length);
+                            System.out.println(length + "cm");
                             break;
 
                         case "yd2m":
                             length = Yard.YD2M(length);
+                            System.out.println(length + "m");
                             break;
 
                         case "yd2km":
                             length = Yard.YD2KM(length);
+                            System.out.println(length + "km");
                             break;
 
                         case "yd2in":
                             length = Yard.YD2IN(length);
+                            System.out.println(length + "in");
                             break;
 
                         case "yd2ft":
                             length = Yard.YD2FT(length);
+                            System.out.println(length + "ft");
                             break;
 
                         case "yd2nm":
                             length = Yard.YD2NM(length);
+                            System.out.println(length + "nm");
                             break;
 
                         case "yd2mi":
                             length = Yard.YD2MI(length);
+                            System.out.println(length + "mi");
                             break;
                     
                         default:
